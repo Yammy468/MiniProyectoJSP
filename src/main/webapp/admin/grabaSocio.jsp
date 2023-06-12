@@ -28,7 +28,7 @@
       } else {
         out.println("Lo siento, el ID o Nombre ya existe.");
       }
-      aux.disconnect();
+      aux.close();
     %>
     <br>
     <a href="admin.jsp" class="btn btn-primary"><span class="glyphicon glyphicon-home"></span> Página principal</button>

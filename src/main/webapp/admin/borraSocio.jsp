@@ -13,7 +13,7 @@
 
       aux.delete(id);
 
-      aux.disconnect();
+      aux.close();
     %>	
     <script>document.location = "admin.jsp"</script>
   </body>
