@@ -11,7 +11,7 @@
 - Antes de crear la conexion, no te olvides de incluir *Class.forName("org.sqlite.JDBC");*
 
 ## Recuperación (miniproyecto):
-- Partimos del proyecto del tema 13 (versión [mejorada](https://github.com/LuisJoseSanchez/aprende-java-con-ejercicios/tree/master/ejemplos/13_JSP_y_BBDD/BaloncestoMejorado])
+- Partimos del proyecto del tema 13 (versión [mejorada](https://github.com/LuisJoseSanchez/aprende-java-con-ejercicios/tree/master/ejemplos/13_JSP_y_BBDD/BaloncestoMejorado))
 - Renombrar la página **index** a **admin**.
 - Crear un **formulario** en la nuevo index: user & password.
 - El campo **id** se considera usuario.
