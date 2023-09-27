@@ -65,7 +65,7 @@
       </div> <!-- Slide 1 -->
 
       <div class="carousel-item">
-        <img class="second-slide" src="imagen/baloncesto.avif" alt="Second slide">
+        <img class="second-slide" src="imagen/baloncesto.webp" alt="Second slide">
         <div class="container">
           <div class="carousel-caption" style="color: cyan; font-weight: bold; text-shadow: 2px 2px 0 #000">
             <h1>Baloncesto.</h1>
@@ -106,7 +106,7 @@
     <!-- Las 3 columnas debajo del baloncesto -->
     <div class="row">
       <div class="col-lg-4">
-        <img class="rounded-circle" src="imagen/manejoBalon.avif" alt="Generic placeholder image" width="140" height="140">
+        <img class="rounded-circle" src="imagen/manejoBalon.jpg" alt="Generic placeholder image" width="140" height="140">
         <h2>Manejo del balon</h2>
         <p>El manejo de balon en el baloncesto es una habilidad crucial para controlar y manipular la pelota con confianza y precision, permitiendo a los jugadores avanzar, sortear defensores y crear oportunidades ofensivas.</p>
         <p><a class="btn btn-secondary" href="#featurette1" role="button">View details &raquo;</a></p>
